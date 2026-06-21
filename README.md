@@ -1,2 +1,14 @@
 # zcw-hub-archive
-HTML page archive and documentation
+
+页面归档与发布记录
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
